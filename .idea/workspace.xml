@@ -27,8 +27,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.86529124">
-                <caret line="112" column="6" selection-start-line="112" selection-start-column="6" selection-end-line="112" selection-end-column="6" />
+              <first_editor vertical-scroll-proportion="0.89320385">
+                <caret line="113" column="6" selection-start-line="113" selection-start-column="6" selection-end-line="113" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -230,12 +230,12 @@
       <created>1460377438579</created>
       <option name="number" value="Default" />
       <updated>1460377438579</updated>
-      <workItem from="1460377445908" duration="872000" />
+      <workItem from="1460377445908" duration="1151000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="872000" />
+    <option name="totallyTimeSpent" value="1151000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1932" height="1047" extended-state="0" />
@@ -279,8 +279,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.86529124">
-            <caret line="112" column="6" selection-start-line="112" selection-start-column="6" selection-end-line="112" selection-end-column="6" />
+          <first_editor vertical-scroll-proportion="0.89320385">
+            <caret line="113" column="6" selection-start-line="113" selection-start-column="6" selection-end-line="113" selection-end-column="6" />
             <folding />
           </first_editor>
           <second_editor />
