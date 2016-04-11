@@ -109,6 +109,8 @@ public class Lejian extends WechatSupport{
 * [@truecn](https://github.com/truecn)
 * [@Zhangys-hh](https://github.com/Zhangys-hh)
 
+* 这是新的修改
+
 
 
 
