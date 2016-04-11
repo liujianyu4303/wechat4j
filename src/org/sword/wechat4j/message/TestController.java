@@ -10,9 +10,5 @@ package org.sword.wechat4j.message;
  *
  * @author <a href="mailto:liujy@dayanginfo.com">刘建宇</a>
  */
-
-public class Test {
-    public static void main(String[] args) {
-        System.out.println("aaa");
-    }
+public class TestController {
 }
